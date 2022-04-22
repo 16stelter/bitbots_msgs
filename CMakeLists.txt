@@ -18,6 +18,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ColorLookupTable.msg"
   "msg/Config.msg"
   "msg/Cpu.msg"
+  "msg/FloatStamped.msg"
   "msg/Filesystem.msg"
   "msg/FootPressure.msg"
   "msg/JointCommand.msg"
