@@ -34,6 +34,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/SetAccelerometerCalibrationThreshold.srv"
   "srv/SetObjectPose.srv"
   "srv/SetObjectPosition.srv"
+  "srv/DeepSeaService.srv"
   "action/Dynup.action"
   "action/Kick.action"
   DEPENDENCIES
