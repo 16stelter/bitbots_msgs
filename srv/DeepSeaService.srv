@@ -1,4 +1,0 @@
-float32 input
-string leg
----
-float32 result
